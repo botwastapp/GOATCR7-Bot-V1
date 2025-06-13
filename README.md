@@ -1,0 +1,2 @@
+# GOATCR7-Bot-V1
+New bot GOATCR7-Bot-V1
