@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By GOATCR7-Bot-V1",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach -- GOATCR7-Bot-V1",
+    "start": "pm2 start index.js --deep-monitoring --attach --name GOATCR7-Bot-V1",
     "stop": "pm2 stop GOATCR7-Bot-V1",
     "restart": "pm2 restart GOATCR7-Bot-V1"
   },
